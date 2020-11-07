@@ -1,5 +1,3 @@
-from msvcrt import getch
-
 import cv2
 
 
